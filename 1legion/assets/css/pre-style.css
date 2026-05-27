@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+input,
+textarea,
+button {
+  appearance: none;
+  outline: none;
+  font-size: inherit;
+  font-family: inherit;
+  border-radius: 0; }
+
+body {
+  background-color: black; }
+  body .title {
+    color: white;
+    text-align: center;
+    padding: 20px 10px; }
